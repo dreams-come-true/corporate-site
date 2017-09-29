@@ -425,6 +425,14 @@ h1{
 }
 
 // News.html
+body {
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #222;
+}
+
 #sub_cover {
     padding: 40px 0;
     background-image: url(../images/news/sub_cover.jpg);
